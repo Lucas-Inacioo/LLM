@@ -1,0 +1,1282 @@
+[
+    {
+        "question": "Qual a diferença entre adjetivos e advérbios na gramática portuguesa?",
+        "area": "Português"
+    },
+    {
+        "question": "Como se classificam as orações coordenadas e subordinadas?",
+        "area": "Português"
+    },
+    {
+        "question": "O que são pronomes relativos e como são utilizados nas frases?",
+        "area": "Português"
+    },
+    {
+        "question": "Qual é a regra para o uso de crase na língua portuguesa?",
+        "area": "Português"
+    },
+    {
+        "question": "Como identificar e corrigir a colocação pronominal em uma frase?",
+        "area": "Português"
+    },
+    {
+        "question": "O que caracteriza um sujeito indeterminado e como ele é expresso?",
+        "area": "Português"
+    },
+    {
+        "question": "Quais são as regras de concordância verbal e nominal na gramática portuguesa?",
+        "area": "Português"
+    },
+    {
+        "question": "Como diferenciar os usos dos porquês na língua portuguesa?",
+        "area": "Português"
+    },
+    {
+        "question": "O que são verbos transitivos e intransitivos e como identificá-los?",
+        "area": "Português"
+    },
+    {
+        "question": "Qual a função dos verbos auxiliares nas locuções verbais?",
+        "area": "Português"
+    },
+    {
+        "question": "O que são figuras de linguagem e quais são os tipos mais comuns?",
+        "area": "Português"
+    },
+    {
+        "question": "Como se formam os tempos compostos dos verbos na língua portuguesa?",
+        "area": "Português"
+    },
+    {
+        "question": "Qual a importância dos conectivos para a coesão textual?",
+        "area": "Português"
+    },
+    {
+        "question": "O que são palavras homônimas e parônimas e como diferenciá-las?",
+        "area": "Português"
+    },
+    {
+        "question": "Como é estruturada a oração passiva e qual sua transformação a partir da ativa?",
+        "area": "Português"
+    },
+    {
+        "question": "Quais são as regras para o uso de sinais de pontuação, especialmente vírgula e ponto e vírgula?",
+        "area": "Português"
+    },
+    {
+        "question": "O que define um texto dissertativo-argumentativo e quais são suas características?",
+        "area": "Português"
+    },
+    {
+        "question": "Como se dá a regência verbal e nominal na construção de frases?",
+        "area": "Português"
+    },
+    {
+        "question": "Quais são as características e funções do texto narrativo?",
+        "area": "Português"
+    },
+    {
+        "question": "Como a acentuação gráfica é aplicada nas palavras da língua portuguesa?",
+        "area": "Português"
+    },
+    {
+        "question": "O que caracteriza o Eu-lírico em um poema e como ele difere do autor da obra?",
+        "area": "Literatura"
+    },
+    {
+        "question": "Como a estrutura do romance 'Dom Casmurro' de Machado de Assis contribui para o debate sobre a veracidade do narrador?",
+        "area": "Literatura"
+    },
+    {
+        "question": "De que forma a obra 'Grande Sertão: Veredas' de Guimarães Rosa inova na estrutura narrativa e na criação linguística?",
+        "area": "Literatura"
+    },
+    {
+        "question": "Qual a importância da obra 'A Hora da Estrela' de Clarice Lispector para o entendimento da condição feminina na literatura brasileira?",
+        "area": "Literatura"
+    },
+    {
+        "question": "Como os elementos do Barroco são explorados na poesia de Gregório de Matos?",
+        "area": "Literatura"
+    },
+    {
+        "question": "De que maneira a poesia de Carlos Drummond de Andrade reflete as inquietações do homem moderno?",
+        "area": "Literatura"
+    },
+    {
+        "question": "Qual o papel da intertextualidade na obra 'Os Sertões' de Euclides da Cunha?",
+        "area": "Literatura"
+    },
+    {
+        "question": "Como a obra 'Memórias Póstumas de Brás Cubas' subverte o gênero do romance ao adotar uma narrativa póstuma?",
+        "area": "Literatura"
+    },
+    {
+        "question": "De que forma o Modernismo Brasileiro se manifesta na obra 'Macunaíma' de Mário de Andrade?",
+        "area": "Literatura"
+    },
+    {
+        "question": "Qual a função do narrador onisciente nas obras realistas-naturalistas brasileiras?",
+        "area": "Literatura"
+    },
+    {
+        "question": "Como a literatura de cordel se insere na tradição literária brasileira e qual sua importância cultural?",
+        "area": "Literatura"
+    },
+    {
+        "question": "De que maneira a questão racial é abordada na obra 'O Cortiço' de Aluísio Azevedo?",
+        "area": "Literatura"
+    },
+    {
+        "question": "Qual a importância dos símbolos nacionais na construção da identidade cultural na obra 'O Uruguai' de Basílio da Gama?",
+        "area": "Literatura"
+    },
+    {
+        "question": "Como a figura do 'malandro' é retratada na literatura brasileira, especialmente em obras como 'Memórias de um Sargento de Milícias'?",
+        "area": "Literatura"
+    },
+    {
+        "question": "De que forma o conceito de 'antropofagia cultural' é utilizado na Semana de Arte Moderna de 1922?",
+        "area": "Literatura"
+    },
+    {
+        "question": "Qual a representação da mulher na literatura brasileira do século XIX, com foco nas obras de José de Alencar?",
+        "area": "Literatura"
+    },
+    {
+        "question": "Como a poesia marginal, surgida durante a ditadura militar no Brasil, se caracteriza e quais são seus principais expoentes?",
+        "area": "Literatura"
+    },
+    {
+        "question": "De que maneira a crônica se desenvolveu no Brasil e quem foram seus principais autores?",
+        "area": "Literatura"
+    },
+    {
+        "question": "Qual o impacto da oralidade na literatura brasileira, especialmente em autores como João Guimarães Rosa?",
+        "area": "Literatura"
+    },
+    {
+        "question": "Como o regionalismo é explorado na literatura brasileira, especialmente nas obras de Rachel de Queiroz?",
+        "area": "Literatura"
+    },
+    {
+        "question": "Como estruturar um parágrafo de introdução eficaz em uma redação?",
+        "area": "Redação"
+    },
+    {
+        "question": "Quais são as características de uma boa tese em um texto argumentativo?",
+        "area": "Redação"
+    },
+    {
+        "question": "Como utilizar conectivos para melhorar a coesão textual em uma redação?",
+        "area": "Redação"
+    },
+    {
+        "question": "Quais estratégias podem ser usadas para desenvolver argumentos convincentes?",
+        "area": "Redação"
+    },
+    {
+        "question": "Como evitar a repetição desnecessária de palavras em um texto?",
+        "area": "Redação"
+    },
+    {
+        "question": "Qual a importância de revisar e editar uma redação antes da submissão final?",
+        "area": "Redação"
+    },
+    {
+        "question": "Como diferenciar parágrafos de desenvolvimento de parágrafos de conclusão?",
+        "area": "Redação"
+    },
+    {
+        "question": "Quais técnicas podem ser utilizadas para criar um título atraente para uma redação?",
+        "area": "Redação"
+    },
+    {
+        "question": "Como incorporar exemplos relevantes para sustentar os argumentos em uma redação?",
+        "area": "Redação"
+    },
+    {
+        "question": "De que maneira a voz passiva pode ser usada para alterar o foco de uma frase?",
+        "area": "Redação"
+    },
+    {
+        "question": "Qual a importância da variedade de vocabulário em uma redação?",
+        "area": "Redação"
+    },
+    {
+        "question": "Como a pontuação afeta o ritmo e a clareza de um texto?",
+        "area": "Redação"
+    },
+    {
+        "question": "De que forma pode-se abordar a conclusão para reafirmar a tese de forma eficaz?",
+        "area": "Redação"
+    },
+    {
+        "question": "Como lidar com o bloqueio criativo ao iniciar uma redação?",
+        "area": "Redação"
+    },
+    {
+        "question": "Qual a melhor maneira de incorporar citações de fontes externas em um texto?",
+        "area": "Redação"
+    },
+    {
+        "question": "Como o uso de parágrafos pode organizar visualmente uma redação?",
+        "area": "Redação"
+    },
+    {
+        "question": "De que maneira as figuras de linguagem podem enriquecer um texto?",
+        "area": "Redação"
+    },
+    {
+        "question": "Como desenvolver um argumento contrário e refutá-lo em uma redação argumentativa?",
+        "area": "Redação"
+    },
+    {
+        "question": "Qual o papel dos temas transversais na construção de uma redação?",
+        "area": "Redação"
+    },
+    {
+        "question": "Como garantir a objetividade e a imparcialidade em redações expositivas?",
+        "area": "Redação"
+    },
+    {
+        "question": "Qual é a principal função da membrana plasmática nas células?",
+        "area": "Biologia"
+    },
+    {
+        "question": "Como a teoria da endossimbiose explica a origem das mitocôndrias e cloroplastos?",
+        "area": "Biologia"
+    },
+    {
+        "question": "De que maneira as enzimas aceleram as reações químicas no corpo?",
+        "area": "Biologia"
+    },
+    {
+        "question": "Qual é a importância da biodiversidade para a estabilidade dos ecossistemas?",
+        "area": "Biologia"
+    },
+    {
+        "question": "Como ocorre a polinização e qual é seu papel na reprodução das plantas?",
+        "area": "Biologia"
+    },
+    {
+        "question": "O que são biomas e como eles são classificados?",
+        "area": "Biologia"
+    },
+    {
+        "question": "De que forma o ciclo do nitrogênio é essencial para a vida na Terra?",
+        "area": "Biologia"
+    },
+    {
+        "question": "Como os vírus diferem dos outros organismos em termos de estrutura e reprodução?",
+        "area": "Biologia"
+    },
+    {
+        "question": "O que caracteriza um organismo como sendo um ser vivo?",
+        "area": "Biologia"
+    },
+    {
+        "question": "Como a seleção natural atua sobre as populações?",
+        "area": "Biologia"
+    },
+    {
+        "question": "Qual é o papel das células-tronco na medicina regenerativa?",
+        "area": "Biologia"
+    },
+    {
+        "question": "De que maneira os transgênicos são produzidos e quais são suas aplicações?",
+        "area": "Biologia"
+    },
+    {
+        "question": "Como a fotossíntese contribui para o ciclo do carbono?",
+        "area": "Biologia"
+    },
+    {
+        "question": "O que são e como funcionam os ecossistemas aquáticos?",
+        "area": "Biologia"
+    },
+    {
+        "question": "Qual é a diferença entre mitose e meiose?",
+        "area": "Biologia"
+    },
+    {
+        "question": "Como a resistência a antibióticos se desenvolve nas bactérias?",
+        "area": "Biologia"
+    },
+    {
+        "question": "De que forma os seres vivos são classificados no sistema de taxonomia?",
+        "area": "Biologia"
+    },
+    {
+        "question": "Qual é a importância dos ciclos biogeoquímicos para o ambiente?",
+        "area": "Biologia"
+    },
+    {
+        "question": "Como as adaptações evolutivas contribuem para a sobrevivência das espécies?",
+        "area": "Biologia"
+    },
+    {
+        "question": "O que são zonas de convergência e divergência em ecologia e qual a sua importância?",
+        "area": "Biologia"
+    },
+    {
+        "question": "O que é globalização e quais são seus efeitos sobre as economias locais?",
+        "area": "Geografia"
+    },
+    {
+        "question": "Como as mudanças climáticas estão afetando os padrões meteorológicos globais?",
+        "area": "Geografia"
+    },
+    {
+        "question": "Qual é a importância dos rios para o desenvolvimento das civilizações humanas?",
+        "area": "Geografia"
+    },
+    {
+        "question": "Como a urbanização afeta o meio ambiente e a qualidade de vida nas cidades?",
+        "area": "Geografia"
+    },
+    {
+        "question": "O que são biomas e como eles são distribuídos pelo planeta?",
+        "area": "Geografia"
+    },
+    {
+        "question": "Como a desigualdade social e econômica é representada no espaço geográfico?",
+        "area": "Geografia"
+    },
+    {
+        "question": "Qual é o papel da geopolítica no cenário internacional contemporâneo?",
+        "area": "Geografia"
+    },
+    {
+        "question": "Como os processos de desertificação são desencadeados e quais são suas consequências?",
+        "area": "Geografia"
+    },
+    {
+        "question": "O que é sustentabilidade e como pode ser promovida nas cidades?",
+        "area": "Geografia"
+    },
+    {
+        "question": "Como as fronteiras políticas influenciam as relações entre países?",
+        "area": "Geografia"
+    },
+    {
+        "question": "Quais são as causas e efeitos da migração internacional no século XXI?",
+        "area": "Geografia"
+    },
+    {
+        "question": "Como os fenômenos naturais, como terremotos e vulcões, são distribuídos geograficamente?",
+        "area": "Geografia"
+    },
+    {
+        "question": "Qual a importância dos oceanos para o equilíbrio ecológico do planeta?",
+        "area": "Geografia"
+    },
+    {
+        "question": "Como a colonização e o imperialismo moldaram o mapa político mundial?",
+        "area": "Geografia"
+    },
+    {
+        "question": "O que são megacidades e quais desafios elas enfrentam?",
+        "area": "Geografia"
+    },
+    {
+        "question": "Como o conceito de região é utilizado na geografia para entender o espaço geográfico?",
+        "area": "Geografia"
+    },
+    {
+        "question": "Qual é o impacto do turismo no patrimônio cultural e natural?",
+        "area": "Geografia"
+    },
+    {
+        "question": "Como a agricultura de monocultura afeta a biodiversidade e os solos?",
+        "area": "Geografia"
+    },
+    {
+        "question": "Quais são as principais fontes de energia renovável e não renovável e como elas impactam o ambiente?",
+        "area": "Geografia"
+    },
+    {
+        "question": "Como o aquecimento global está afetando os polos e as calotas polares?",
+        "area": "Geografia"
+    },
+    {
+        "question": "Como calcular o ângulo interno de um polígono regular de 8 lados?",
+        "area": "Matemática"
+    },
+    {
+        "question": "Qual a fórmula para encontrar a área de um círculo?",
+        "area": "Matemática"
+    },
+    {
+        "question": "Como resolver a equação quadrática x^2 - 4x + 4 = 0?",
+        "area": "Matemática"
+    },
+    {
+        "question": "Qual é a definição de uma função injetora?",
+        "area": "Matemática"
+    },
+    {
+        "question": "Como encontrar o volume de um cone com raio de base 3 cm e altura 4 cm?",
+        "area": "Matemática"
+    },
+    {
+        "question": "O que caracteriza duas retas como sendo paralelas?",
+        "area": "Matemática"
+    },
+    {
+        "question": "Como calcular o seno de 30 graus sem usar calculadora?",
+        "area": "Matemática"
+    },
+    {
+        "question": "Qual a diferença entre progressão aritmética e progressão geométrica?",
+        "area": "Matemática"
+    },
+    {
+        "question": "Como determinar a imagem de uma função do 2º grau?",
+        "area": "Matemática"
+    },
+    {
+        "question": "Qual é a fórmula de Heron para calcular a área de um triângulo?",
+        "area": "Matemática"
+    },
+    {
+        "question": "Como encontrar o centro e o raio de uma circunferência dada pela equação (x - 2)^2 + (y + 3)^2 = 25?",
+        "area": "Matemática"
+    },
+    {
+        "question": "Qual a relação entre os lados de um triângulo retângulo, conhecida como Teorema de Pitágoras?",
+        "area": "Matemática"
+    },
+    {
+        "question": "Como calcular o determinante de uma matriz 3x3?",
+        "area": "Matemática"
+    },
+    {
+        "question": "O que são números complexos e como são representados?",
+        "area": "Matemática"
+    },
+    {
+        "question": "Como a lei dos senos é aplicada na resolução de triângulos não retângulos?",
+        "area": "Matemática"
+    },
+    {
+        "question": "Qual é o princípio do método de contagem conhecido como Princípio Fundamental da Contagem?",
+        "area": "Matemática"
+    },
+    {
+        "question": "Como são definidas as funções trigonométricas no círculo unitário?",
+        "area": "Matemática"
+    },
+    {
+        "question": "O que é uma assíntota de uma função e como determiná-la?",
+        "area": "Matemática"
+    },
+    {
+        "question": "Como calcular a soma dos ângulos internos de um polígono convexo?",
+        "area": "Matemática"
+    },
+    {
+        "question": "O que é uma equação diferencial e como ela é aplicada na modelagem de fenômenos físicos?",
+        "area": "Matemática"
+    },
+    {
+        "question": "Como a Lei de Newton do Movimento explica a relação entre força e movimento?",
+        "area": "Física"
+    },
+    {
+        "question": "Qual é o princípio por trás da Lei da Conservação da Energia?",
+        "area": "Física"
+    },
+    {
+        "question": "Como as ondas eletromagnéticas se propagam no vácuo?",
+        "area": "Física"
+    },
+    {
+        "question": "Qual a diferença entre reflexão, refração e difração da luz?",
+        "area": "Física"
+    },
+    {
+        "question": "Como funciona o princípio da superposição em ondas?",
+        "area": "Física"
+    },
+    {
+        "question": "O que define um movimento harmônico simples?",
+        "area": "Física"
+    },
+    {
+        "question": "Como a Teoria da Relatividade de Einstein alterou nossa compreensão do universo?",
+        "area": "Física"
+    },
+    {
+        "question": "Qual é o significado físico do número quântico principal em um átomo?",
+        "area": "Física"
+    },
+    {
+        "question": "Como a segunda lei da termodinâmica se aplica aos sistemas fechados?",
+        "area": "Física"
+    },
+    {
+        "question": "O que são partículas virtuais na mecânica quântica?",
+        "area": "Física"
+    },
+    {
+        "question": "Como a polarização da luz demonstra a natureza transversal das ondas eletromagnéticas?",
+        "area": "Física"
+    },
+    {
+        "question": "O que é um buraco negro e como ele é formado?",
+        "area": "Física"
+    },
+    {
+        "question": "Como a física de partículas explica a constituição fundamental da matéria?",
+        "area": "Física"
+    },
+    {
+        "question": "Qual é o efeito fotoelétrico e qual a sua importância para a física quântica?",
+        "area": "Física"
+    },
+    {
+        "question": "Como a Lei de Coulomb explica a força entre duas cargas elétricas?",
+        "area": "Física"
+    },
+    {
+        "question": "O que são e como são geradas as ondas gravitacionais?",
+        "area": "Física"
+    },
+    {
+        "question": "Como o princípio da incerteza de Heisenberg impacta o estudo da mecânica quântica?",
+        "area": "Física"
+    },
+    {
+        "question": "Qual a importância do experimento de dupla fenda para a interpretação da mecânica quântica?",
+        "area": "Física"
+    },
+    {
+        "question": "Como o magnetismo é explicado pelo eletromagnetismo?",
+        "area": "Física"
+    },
+    {
+        "question": "O que é a dilatação do tempo e como ela pode ser observada?",
+        "area": "Física"
+    },
+    {
+        "question": "Qual foi a principal causa da Primeira Guerra Mundial?",
+        "area": "História"
+    },
+    {
+        "question": "O que foi a Revolução Francesa e quais foram suas principais consequências?",
+        "area": "História"
+    },
+    {
+        "question": "Quem foi Cleópatra e qual foi seu papel na história do Egito Antigo?",
+        "area": "História"
+    },
+    {
+        "question": "O que caracterizou o período conhecido como Renascimento Cultural?",
+        "area": "História"
+    },
+    {
+        "question": "Qual a importância da queda do Muro de Berlim para o fim da Guerra Fria?",
+        "area": "História"
+    },
+    {
+        "question": "Como a Revolução Industrial transformou as sociedades europeias no século XIX?",
+        "area": "História"
+    },
+    {
+        "question": "Quais foram as principais causas e consequências da Revolução Russa de 1917?",
+        "area": "História"
+    },
+    {
+        "question": "O que foi o Iluminismo e como influenciou a formação de Estados modernos?",
+        "area": "História"
+    },
+    {
+        "question": "Qual era o objetivo das Grandes Navegações no século XV e XVI?",
+        "area": "História"
+    },
+    {
+        "question": "Como o Império Romano contribuiu para o desenvolvimento do Ocidente?",
+        "area": "História"
+    },
+    {
+        "question": "Quais foram os principais fatores que levaram à Independência das colônias americanas?",
+        "area": "História"
+    },
+    {
+        "question": "Qual foi o impacto da descoberta do fogo para as primeiras comunidades humanas?",
+        "area": "História"
+    },
+    {
+        "question": "Como a peste negra afetou a população europeia na Idade Média?",
+        "area": "História"
+    },
+    {
+        "question": "Quais foram os efeitos das políticas de apartheid na África do Sul?",
+        "area": "História"
+    },
+    {
+        "question": "O que foi a Guerra dos Cem Anos e quais foram seus principais desdobramentos?",
+        "area": "História"
+    },
+    {
+        "question": "Qual a importância da Batalha de Waterloo na história europeia?",
+        "area": "História"
+    },
+    {
+        "question": "Como os Maias contribuíram para o avanço do conhecimento astronômico?",
+        "area": "História"
+    },
+    {
+        "question": "O que foi o Tratado de Versalhes e qual seu papel após a Primeira Guerra Mundial?",
+        "area": "História"
+    },
+    {
+        "question": "Quem foi Martin Luther King Jr. e qual foi seu papel no movimento pelos direitos civis nos Estados Unidos?",
+        "area": "História"
+    },
+    {
+        "question": "Como a invenção da imprensa por Gutenberg transformou a sociedade europeia?",
+        "area": "História"
+    },
+    {
+        "question": "O que é a tabela periódica?",
+        "area": "Química"
+    },
+    {
+        "question": "O nome correto do hidrocarboneto ramificado, cuja fórmula está esquematizada a seguir é:",
+        "area": "Química"
+    },
+    {
+        "question": "A espécie que funciona como uma “insulina vegetal” possui entre seus compostos químicos um alcano, cuja fórmula contém 74 átomos de hidrogênio. Portanto, o número de átomos de carbono presentes na cadeia carbônica é:",
+        "area": "Química"
+    },
+    {
+        "question": "Analise as afirmativas sobre os hidrocarbonetos e responda com a soma das alternativas corretas. (02) O ponto de ebulição de uma série de hidrocarbonetos aumenta com o aumento da cadeia. (04) Hidrocarbonetos são compostos formados por átomos de carbono e hidrogênio. (16) Os hidrocarbonetos são compostos apolares e, por isso, solubilizam-se facilmente em água. (32) A interação intermolecular entre moléculas de hidrocarbonetos são do tipo dipolo induzido.",
+        "area": "Química"
+    },
+    {
+        "question": "Alcinos são hidrocarbonetos:",
+        "area": "Química"
+    },
+    {
+        "question": "Observe os compostos orgânicos abaixo e identifique as funções orgânicas, de acordo com os grupos funcionais destacados. Após isso, dê o nome das substâncias.",
+        "area": "Química"
+    },
+    {
+        "question": "Na Química orgânica, os compostos são reconhecidos pelas cadeias formadas por carbono e hidrogênio. Entretanto, outros elementos podem fazer parte da estrutura química desses compostos, como o oxigênio.",
+        "area": "Química"
+    },
+    {
+        "question": "Observe a estrutura do composto orgânico abaixo e assinale as afirmativas verdadeiras.",
+        "area": "Química"
+    },
+    {
+        "question": "No início do século XIX, com a descoberta e o isolamento de diversos elementos químicos, tornou-se necessário classificá-los racionalmente, para a realização de estudos sistemáticos. Muitas contribuições foram somadas até se chegar à atual classificação periódica dos elementos químicos. Em relação à classificação periódica atual, responda:",
+        "area": "Química"
+    },
+    {
+        "question": "Com relação à classificação periódica moderna dos elementos, identifique a afirmação verdadeira:",
+        "area": "Química"
+    },
+    {
+        "question": "Para interpretar as propriedades das diversas substâncias é necessário conhecer as ligações entre os átomos e as ligações entre as respectivas moléculas. Em relação à ligação entre átomos pode afirmar-se que:",
+        "area": "Química"
+    },
+    {
+        "question": "O metano, a amônia, a água e o fluoreto de hidrogênio são substâncias moleculares cujas estruturas de Lewis se representam na tabela seguinte.",
+        "area": "Química"
+    },
+    {
+        "question": "As propriedades exibidas por um certo material podem ser explicadas pelo tipo de ligação química presente entre suas unidades formadoras. Em uma análise laboratorial, um químico identificou para um certo material as seguintes propriedades:",
+        "area": "Química"
+    },
+    {
+        "question": "Analise as propriedades físicas na tabela abaixo:",
+        "area": "Química"
+    },
+    {
+        "question": "Considere o elemento cloro formando compostos com, respectivamente, hidrogênio, carbono, sódio e cálcio. Com quais desses elementos o cloro forma compostos covalentes?",
+        "area": "Química"
+    },
+    {
+        "question": "A imagem abaixo representa qual modelo atômico?",
+        "area": "Química"
+    },
+    {
+        "question": "Qual cientista propôs o primeiro modelo atômico moderno que ficou conhecido como “bola de bilhar”?",
+        "area": "Química"
+    },
+    {
+        "question": "Sobre o modelo Rutherford, considere as afirmações abaixo como verdadeiras ou falsas:",
+        "area": "Química"
+    },
+    {
+        "question": "Os modelos atômicos descrevem alguns aspectos estruturais dos átomos. Sobre essa afirmação podemos afirmar que:",
+        "area": "Química"
+    },
+    {
+        "question": "Associe as afirmações a seus respectivos responsáveis: I - O átomo não é indivisível e a matéria possui propriedades elétricas (1897).II - O átomo é uma esfera maciça (1808).III - O átomo é formado por duas regiões denominadas núcleo e eletrosfera (1911).",
+        "area": "Química"
+    },
+    {
+        "question": "What is the difference between 'affect' and 'effect' in English?",
+        "area": "Inglês"
+    },
+    {
+        "question": "How do you use the present perfect tense in English?",
+        "area": "Inglês"
+    },
+    {
+        "question": "What are modal verbs and how are they used in English sentences?",
+        "area": "Inglês"
+    },
+    {
+        "question": "How can you differentiate between 'its' and 'it's'?",
+        "area": "Inglês"
+    },
+    {
+        "question": "What is an Oxford comma and when should it be used?",
+        "area": "Inglês"
+    },
+    {
+        "question": "How do you form and use the passive voice in English?",
+        "area": "Inglês"
+    },
+    {
+        "question": "What is the rule for using 'who' versus 'whom'?",
+        "area": "Inglês"
+    },
+    {
+        "question": "How can phrasal verbs be categorized and what are some examples?",
+        "area": "Inglês"
+    },
+    {
+        "question": "What are the different ways to make suggestions in English?",
+        "area": "Inglês"
+    },
+    {
+        "question": "How do you use conditional sentences in English? Provide examples for each type.",
+        "area": "Inglês"
+    },
+    {
+        "question": "What is the significance of articles in English and how are they used?",
+        "area": "Inglês"
+    },
+    {
+        "question": "How do you properly use prepositions of time such as 'at', 'in', and 'on'?",
+        "area": "Inglês"
+    },
+    {
+        "question": "What are some strategies for learning and remembering new vocabulary in English?",
+        "area": "Inglês"
+    },
+    {
+        "question": "How can you identify and use the different types of adverbs in English?",
+        "area": "Inglês"
+    },
+    {
+        "question": "What are some common idiomatic expressions in English and their meanings?",
+        "area": "Inglês"
+    },
+    {
+        "question": "How do you distinguish between 'lay' and 'lie'?",
+        "area": "Inglês"
+    },
+    {
+        "question": "What are the rules for using 'fewer' and 'less'?",
+        "area": "Inglês"
+    },
+    {
+        "question": "How can you improve your pronunciation and accent in English?",
+        "area": "Inglês"
+    },
+    {
+        "question": "What is the difference between formal and informal language in English?",
+        "area": "Inglês"
+    },
+    {
+        "question": "How do you write a coherent and engaging paragraph in English?",
+        "area": "Inglês"
+    },
+    {
+        "question": "¿Cuál es la diferencia entre 'ser' y 'estar' en español?",
+        "area": "Espanhol"
+    },
+    {
+        "question": "¿Cómo se conjugan los verbos regulares en el presente del indicativo en español?",
+        "area": "Espanhol"
+    },
+    {
+        "question": "¿Qué son los pronombres reflexivos y cómo se usan en una oración?",
+        "area": "Espanhol"
+    },
+    {
+        "question": "¿Cómo se forman y se usan los tiempos del subjuntivo en español?",
+        "area": "Espanhol"
+    },
+    {
+        "question": "¿Qué son los falsos amigos en español y el inglés, y podrías dar algunos ejemplos?",
+        "area": "Espanhol"
+    },
+    {
+        "question": "¿Cómo se usa el pretérito perfecto y cuál es la diferencia con el pretérito indefinido?",
+        "area": "Espanhol"
+    },
+    {
+        "question": "¿Cuáles son las reglas para el uso de los artículos definidos e indefinidos en español?",
+        "area": "Espanhol"
+    },
+    {
+        "question": "¿Qué es la conjugación de verbos irregulares y podrías dar algunos ejemplos?",
+        "area": "Espanhol"
+    },
+    {
+        "question": "¿Cómo se diferencia el uso de 'por' y 'para' en español?",
+        "area": "Espanhol"
+    },
+    {
+        "question": "¿Qué son las preposiciones y cómo se utilizan en las oraciones en español?",
+        "area": "Espanhol"
+    },
+    {
+        "question": "¿Cuáles son las diferencias entre el español de España y el español de América Latina?",
+        "area": "Espanhol"
+    },
+    {
+        "question": "¿Cómo se usa el imperativo para dar órdenes o consejos en español?",
+        "area": "Espanhol"
+    },
+    {
+        "question": "¿Qué es el estilo indirecto y cómo se forma en español?",
+        "area": "Espanhol"
+    },
+    {
+        "question": "¿Cómo se forman los adverbios en español y cuál es su función en la oración?",
+        "area": "Espanhol"
+    },
+    {
+        "question": "¿Qué es la acentuación y cuáles son las reglas generales para acentuar palabras en español?",
+        "area": "Espanhol"
+    },
+    {
+        "question": "¿Cómo se expresan los deseos y las emociones usando el subjuntivo en español?",
+        "area": "Espanhol"
+    },
+    {
+        "question": "¿Qué son y cómo se usan los conectores discursivos en un texto en español?",
+        "area": "Espanhol"
+    },
+    {
+        "question": "¿Cuál es la estructura y uso del 'se' impersonal en español?",
+        "area": "Espanhol"
+    },
+    {
+        "question": "¿Cómo se diferencian los usos de 'sino' y 'sino que' en español?",
+        "area": "Espanhol"
+    },
+    {
+        "question": "¿Qué son los modismos y podrías dar ejemplos de algunos comunes en el español?",
+        "area": "Espanhol"
+    },
+    {
+        "question": "Como o conceito de 'ser' é abordado na filosofia de Parmênides?",
+        "area": "Filosofia"
+    },
+    {
+        "question": "Qual a diferença entre ética e moral na filosofia contemporânea?",
+        "area": "Filosofia"
+    },
+    {
+        "question": "Como a dialética de Hegel contribui para a compreensão da história?",
+        "area": "Filosofia"
+    },
+    {
+        "question": "De que maneira a teoria das ideias de Platão influencia o pensamento ocidental?",
+        "area": "Filosofia"
+    },
+    {
+        "question": "O que é o niilismo e como ele é retratado na filosofia de Nietzsche?",
+        "area": "Filosofia"
+    },
+    {
+        "question": "Como Immanuel Kant define o 'imperativo categórico' em sua ética?",
+        "area": "Filosofia"
+    },
+    {
+        "question": "De que forma o existencialismo aborda a questão da liberdade individual?",
+        "area": "Filosofia"
+    },
+    {
+        "question": "Qual é o papel da dúvida no método filosófico de Descartes?",
+        "area": "Filosofia"
+    },
+    {
+        "question": "Como a filosofia analítica busca clarificar problemas filosóficos e conceitos?",
+        "area": "Filosofia"
+    },
+    {
+        "question": "O que é a fenomenologia e qual seu objetivo de estudo segundo Husserl?",
+        "area": "Filosofia"
+    },
+    {
+        "question": "Como Aristóteles define a noção de felicidade em sua ética?",
+        "area": "Filosofia"
+    },
+    {
+        "question": "Qual a importância do conceito de 'vontade de potência' na obra de Nietzsche?",
+        "area": "Filosofia"
+    },
+    {
+        "question": "De que maneira a filosofia de Sócrates difere dos sofistas?",
+        "area": "Filosofia"
+    },
+    {
+        "question": "Como o conceito de 'alteridade' é tratado na filosofia contemporânea?",
+        "area": "Filosofia"
+    },
+    {
+        "question": "O que é o utilitarismo e quem foram seus principais proponentes?",
+        "area": "Filosofia"
+    },
+    {
+        "question": "Como a teoria do conhecimento de John Locke difere da de Descartes?",
+        "area": "Filosofia"
+    },
+    {
+        "question": "O que é o 'ser-para-a-morte' na filosofia de Heidegger?",
+        "area": "Filosofia"
+    },
+    {
+        "question": "Como o conceito de justiça é abordado na 'República' de Platão?",
+        "area": "Filosofia"
+    },
+    {
+        "question": "Qual o papel da arte segundo a estética de Kant?",
+        "area": "Filosofia"
+    },
+    {
+        "question": "De que forma a teoria crítica busca analisar a sociedade contemporânea?",
+        "area": "Filosofia"
+    },
+    {
+        "question": "O que é sociologia e qual o seu objeto de estudo?",
+        "area": "Sociologia"
+    },
+    {
+        "question": "Como Émile Durkheim define o fato social?",
+        "area": "Sociologia"
+    },
+    {
+        "question": "Qual a importância do conceito de luta de classes na obra de Karl Marx?",
+        "area": "Sociologia"
+    },
+    {
+        "question": "De que maneira Max Weber aborda a relação entre religião e sociedade?",
+        "area": "Sociologia"
+    },
+    {
+        "question": "O que é a teoria do habitus de Pierre Bourdieu?",
+        "area": "Sociologia"
+    },
+    {
+        "question": "Como a globalização afeta as estruturas sociais contemporâneas?",
+        "area": "Sociologia"
+    },
+    {
+        "question": "De que forma a sociologia compreende as desigualdades sociais?",
+        "area": "Sociologia"
+    },
+    {
+        "question": "O que são movimentos sociais e qual seu papel na sociedade?",
+        "area": "Sociologia"
+    },
+    {
+        "question": "Como a sociologia explica o fenômeno da violência urbana?",
+        "area": "Sociologia"
+    },
+    {
+        "question": "Qual a relação entre educação e estratificação social?",
+        "area": "Sociologia"
+    },
+    {
+        "question": "O que é cultura e como ela se manifesta nas sociedades?",
+        "area": "Sociologia"
+    },
+    {
+        "question": "De que maneira o conceito de identidade é abordado pela sociologia?",
+        "area": "Sociologia"
+    },
+    {
+        "question": "Qual a importância do estudo da família para a sociologia?",
+        "area": "Sociologia"
+    },
+    {
+        "question": "Como a sociologia analisa as instituições sociais e seu papel na sociedade?",
+        "area": "Sociologia"
+    },
+    {
+        "question": "O que é a teoria do conflito e como ela explica as mudanças sociais?",
+        "area": "Sociologia"
+    },
+    {
+        "question": "De que forma a tecnologia influencia as relações sociais na era digital?",
+        "area": "Sociologia"
+    },
+    {
+        "question": "Qual a contribuição de Erving Goffman para o estudo da interação social?",
+        "area": "Sociologia"
+    },
+    {
+        "question": "Como o conceito de alienação é utilizado para entender a sociedade contemporânea?",
+        "area": "Sociologia"
+    },
+    {
+        "question": "De que maneira a sociologia aborda questões de gênero e sexualidade?",
+        "area": "Sociologia"
+    },
+    {
+        "question": "O que é capital social e qual a sua relevância para as comunidades?",
+        "area": "Sociologia"
+    },
+    {
+        "question": "Quem pintou a Mona Lisa?",
+        "area": "História da Arte"
+    },
+    {
+        "question": "As pirâmides de Quéops, Quéfren e Miquerinos, localizadas em Gizé, as estátuas de Akhenaton e o Templo de Luxor são exemplos de arquitetura e arte relacionados a qual civilização antiga?",
+        "area": "História da Arte"
+    },
+    {
+        "question": "A arte romana se desenvolveu na Roma Antiga entre o século 753 a.C. e o séc IV d.C. Sobre ela, é correto afirmar:",
+        "area": "História da Arte"
+    },
+    {
+        "question": "Uma das manifestações artísticas mais importantes da pré-história do paleolítico foi encontrada em 1908, data de 30 mil anos atrás e se trata de:",
+        "area": "História da Arte"
+    },
+    {
+        "question": "Sobre a arte renascentista, podemos afirmar:",
+        "area": "História da Arte"
+    },
+    {
+        "question": "Fazem parte da arte africana as manifestações artísticas dos diversos povos do continente africano. Podemos afirmar sobre essa área da história da arte:",
+        "area": "História da Arte"
+    },
+    {
+        "question": "Uma das artistas mexicanas mais famosas atualmente é Frida Kahlo. Nascida no início do século XX, deixou como legado uma vasta obra que inclui as seguintes pinturas:",
+        "area": "História da Arte"
+    },
+    {
+        "question": "O surgimento da fotografia foi um momento importante na história da arte. Assinale a alternativa correta sobre esse fato histórico.",
+        "area": "História da Arte"
+    },
+    {
+        "question": "Sobre as vanguardas artísticas que ocorriam na Europa no início do século XX , é correto dizer:",
+        "area": "História da Arte"
+    },
+    {
+        "question": "Em 1922 ocorreu no Brasil a Semana de Arte Moderna, um evento importante para a cultura nacional.",
+        "area": "História da Arte"
+    },
+    {
+        "question": "Em qual momento histórico o movimento dadaísta surgiu?",
+        "area": "História da Arte"
+    },
+    {
+        "question": "Qual cidade transformou-se em um relevante centro de criação do movimento dadá, onde artistas como Hans Arp e Tristan Tzara se mantinham em atividade?",
+        "area": "História da Arte"
+    },
+    {
+        "question": "Os movimentos de vanguarda Surrealismo e Dadaísmo tiveram uma estreita relação e características parecidas. Entretanto, nota-se algumas diferenças. Uma delas é:",
+        "area": "História da Arte"
+    },
+    {
+        "question": "No Brasil, as vanguardas europeias também influenciaram a cena artística. O surrealismo foi uma dessas vertentes que teve papel importante para alguns artistas. Podemos citar como obra nacional com forte influência surrealista:",
+        "area": "História da Arte"
+    },
+    {
+        "question": "A Semana de Arte Moderna, ocorrida em 1922, se tornou um marco na história da arte brasileira. Sua principal motivação foi:",
+        "area": "História da Arte"
+    },
+    {
+        "question": "Sobre o momento histórico que o Brasil atravessava na época da Semana de Arte Moderna, podemos afirmar:",
+        "area": "História da Arte"
+    },
+    {
+        "question": "O cartaz e o catálogo da Semana de Arte Moderna foi produzido por uma das pessoas que idealizou o evento. Com estética marcante para a época, traz letras com tipografia inovadora e as cores vermelho e preto em destaque. Quem foi o autor do cartaz e do catálogo?",
+        "area": "História da Arte"
+    },
+    {
+        "question": "As propostas da Semana de 22 foram criticadas por parte da imprensa e do público. Qual o nome da personalidade que se opôs ao evento e que já havia reprovado a exposição de Anita Malfatti em 1917?",
+        "area": "História da Arte"
+    },
+    {
+        "question": "Podemos citar como artistas de destaque que participaram da Semana de 22:",
+        "area": "História da Arte"
+    },
+    {
+        "question": "Oswald de Andrade foi um dos principais autores da primeira fase do modernismo no Brasil. Na poesia acima, o escritor propõe:",
+        "area": "História da Arte"
+    },
+    {
+        "question": "Como melhorar a concentração nos estudos?",
+        "area": "Orientação de Estudos"
+    },
+    {
+        "question": "Quais são as melhores técnicas de revisão para exames finais?",
+        "area": "Orientação de Estudos"
+    },
+    {
+        "question": "Como posso criar um cronograma de estudos eficaz?",
+        "area": "Orientação de Estudos"
+    },
+    {
+        "question": "Qual é a importância do sono para o aprendizado?",
+        "area": "Orientação de Estudos"
+    },
+    {
+        "question": "Como a alimentação pode influenciar no desempenho dos estudos?",
+        "area": "Orientação de Estudos"
+    },
+    {
+        "question": "De que maneira a prática de exercícios físicos contribui para o rendimento acadêmico?",
+        "area": "Orientação de Estudos"
+    },
+    {
+        "question": "Quais estratégias posso utilizar para melhorar minha compreensão leitora?",
+        "area": "Orientação de Estudos"
+    },
+    {
+        "question": "Como a meditação pode auxiliar nos estudos?",
+        "area": "Orientação de Estudos"
+    },
+    {
+        "question": "Quais aplicativos podem ajudar na organização dos estudos?",
+        "area": "Orientação de Estudos"
+    },
+    {
+        "question": "Como lidar com a procrastinação durante o período de estudos?",
+        "area": "Orientação de Estudos"
+    },
+    {
+        "question": "Quais são as vantagens de estudar em grupo?",
+        "area": "Orientação de Estudos"
+    },
+    {
+        "question": "Como posso utilizar mapas mentais para melhorar meus estudos?",
+        "area": "Orientação de Estudos"
+    },
+    {
+        "question": "De que forma posso melhorar minha memória de longo prazo para reter mais informações?",
+        "area": "Orientação de Estudos"
+    },
+    {
+        "question": "Como definir metas de estudo realistas e alcançáveis?",
+        "area": "Orientação de Estudos"
+    },
+    {
+        "question": "De que maneira o ambiente de estudo influencia na aprendizagem?",
+        "area": "Orientação de Estudos"
+    },
+    {
+        "question": "Qual a importância de fazer pausas durante os estudos?",
+        "area": "Orientação de Estudos"
+    },
+    {
+        "question": "Como posso aumentar minha motivação para estudar?",
+        "area": "Orientação de Estudos"
+    },
+    {
+        "question": "Quais técnicas de memorização são mais eficazes para estudar para provas?",
+        "area": "Orientação de Estudos"
+    },
+    {
+        "question": "Como o estabelecimento de rotinas diárias pode melhorar os estudos?",
+        "area": "Orientação de Estudos"
+    },
+    {
+        "question": "Qual a importância de feedbacks regulares para a melhoria do processo de estudo?",
+        "area": "Orientação de Estudos"
+    },
+    {
+        "question": "Qual é o propósito das parábolas nas tradições religiosas?",
+        "area": "Ensino Religioso"
+    },
+    {
+        "question": "Como diferentes religiões abordam a prática do jejum?",
+        "area": "Ensino Religioso"
+    },
+    {
+        "question": "De que maneira a meditação é utilizada nas práticas espirituais?",
+        "area": "Ensino Religioso"
+    },
+    {
+        "question": "Qual é a importância da peregrinação em diversas tradições religiosas?",
+        "area": "Ensino Religioso"
+    },
+    {
+        "question": "Como o conceito de carma é interpretado em diferentes religiões?",
+        "area": "Ensino Religioso"
+    },
+    {
+        "question": "De que forma a natureza é venerada em religiões pagãs e indígenas?",
+        "area": "Ensino Religioso"
+    },
+    {
+        "question": "Qual é o papel da música e do canto nos rituais religiosos?",
+        "area": "Ensino Religioso"
+    },
+    {
+        "question": "Como as histórias de criação variam entre diferentes culturas e religiões?",
+        "area": "Ensino Religioso"
+    },
+    {
+        "question": "Qual a função dos símbolos religiosos nas diversas tradições?",
+        "area": "Ensino Religioso"
+    },
+    {
+        "question": "De que forma o conceito de sacrifício é visto em diferentes religiões?",
+        "area": "Ensino Religioso"
+    },
+    {
+        "question": "Como o fenômeno da morte é interpretado pelas principais religiões do mundo?",
+        "area": "Ensino Religioso"
+    },
+    {
+        "question": "Qual é a visão sobre anjos e demônios em diferentes tradições espirituais?",
+        "area": "Ensino Religioso"
+    },
+    {
+        "question": "De que maneira as festividades religiosas marcam o tempo e o calendário?",
+        "area": "Ensino Religioso"
+    },
+    {
+        "question": "Como a ética e a moral são tratadas nas grandes religiões?",
+        "area": "Ensino Religioso"
+    },
+    {
+        "question": "Qual é o significado e a importância da oração nas práticas religiosas?",
+        "area": "Ensino Religioso"
+    },
+    {
+        "question": "De que forma as religiões abordam o tema do perdão?",
+        "area": "Ensino Religioso"
+    },
+    {
+        "question": "Qual é a relevância do estudo comparado das religiões para o entendimento cultural?",
+        "area": "Ensino Religioso"
+    },
+    {
+        "question": "Como o conceito de destino é compreendido em diferentes crenças?",
+        "area": "Ensino Religioso"
+    },
+    {
+        "question": "De que maneira a compaixão é vista como uma virtude em diversas tradições religiosas?",
+        "area": "Ensino Religioso"
+    },
+    {
+        "question": "Qual é a importância do diálogo inter-religioso na sociedade contemporânea?",
+        "area": "Ensino Religioso"
+    }
+]
